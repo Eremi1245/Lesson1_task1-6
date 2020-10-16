@@ -1,0 +1,8 @@
+venv
+.idea
+clone
+id_rsa
+id_rsa.pub
+.idea/.name
+.idea/vcs.xml
+ 
