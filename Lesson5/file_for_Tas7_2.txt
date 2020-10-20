@@ -1,0 +1,6 @@
+name firm_1 form ннн profit 10000 9600 85 96 1452000 loss 5000
+name firm_2 form юмн profit 50000 8500 856 96 1452000
+name firm_3 form пнн profit 10800 9600 85 96 1452000 loss 9000
+name firm_4 form ннн profit 10500 9600 85 96 1452000
+name firm_5 form юмн profit 1000 9600 85 96 1452000 loss 6000
+name firm_6 form пнн profit 100 900 8558 960 14000 loss 25000
