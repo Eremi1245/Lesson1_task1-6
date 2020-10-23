@@ -3,7 +3,7 @@ venv
 clone
 id_rsa
 id_rsa.pub
-.idea
-.idea
 .name
 vcs.xml
+.idea/.name
+.idea/vcs.xml
